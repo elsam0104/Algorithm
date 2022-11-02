@@ -16,42 +16,48 @@
     <Filter Include="소스 파일\01. Sort_Algorithm">
       <UniqueIdentifier>{3b2e1679-aa61-4e08-a942-02ca95cf6c89}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\01. Sort_Algorithm\O%28n log n%29">
-      <UniqueIdentifier>{432e8fe0-b460-4b9f-bdb1-61325bbcb55c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\01. Sort_Algorithm\O%28n%29">
-      <UniqueIdentifier>{edbfb155-7c11-4cb8-8521-a068b8a50e1e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\01. Sort_Algorithm\O%28n^2%29">
-      <UniqueIdentifier>{ca567c23-516e-4c87-ae2b-59cad89feb36}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\02. Baekjoon">
       <UniqueIdentifier>{39e79b01-0bd2-4c55-995f-a5637ce37678}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\01. Sort_Algorithm\03. O%28n%29">
+      <UniqueIdentifier>{ca567c23-516e-4c87-ae2b-59cad89feb36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01. Sort_Algorithm\01. O%28n^2%29">
+      <UniqueIdentifier>{432e8fe0-b460-4b9f-bdb1-61325bbcb55c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01. Sort_Algorithm\02. O%28n log n%29">
+      <UniqueIdentifier>{edbfb155-7c11-4cb8-8521-a068b8a50e1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="practice_count.cpp">
-      <Filter>소스 파일\01. Sort_Algorithm\O%28n%29</Filter>
+    <ClCompile Include="2750.cpp">
+      <Filter>소스 파일\02. Baekjoon</Filter>
     </ClCompile>
     <ClCompile Include="practice_radix.cpp">
-      <Filter>소스 파일\01. Sort_Algorithm\O%28n%29</Filter>
+      <Filter>소스 파일\01. Sort_Algorithm\03. O%28n%29</Filter>
     </ClCompile>
-    <ClCompile Include="pracice_quick.cpp">
-      <Filter>소스 파일\01. Sort_Algorithm\O%28n log n%29</Filter>
+    <ClCompile Include="practice_count.cpp">
+      <Filter>소스 파일\01. Sort_Algorithm\03. O%28n%29</Filter>
     </ClCompile>
     <ClCompile Include="practice_merge.cpp">
-      <Filter>소스 파일\01. Sort_Algorithm\O%28n log n%29</Filter>
+      <Filter>소스 파일\01. Sort_Algorithm\02. O%28n log n%29</Filter>
+    </ClCompile>
+    <ClCompile Include="pracice_quick.cpp">
+      <Filter>소스 파일\01. Sort_Algorithm\02. O%28n log n%29</Filter>
     </ClCompile>
     <ClCompile Include="practice_buble.cpp">
-      <Filter>소스 파일\01. Sort_Algorithm\O%28n^2%29</Filter>
+      <Filter>소스 파일\01. Sort_Algorithm\01. O%28n^2%29</Filter>
     </ClCompile>
     <ClCompile Include="practice_insertion.cpp">
-      <Filter>소스 파일\01. Sort_Algorithm\O%28n^2%29</Filter>
+      <Filter>소스 파일\01. Sort_Algorithm\01. O%28n^2%29</Filter>
     </ClCompile>
     <ClCompile Include="practice_selection.cpp">
-      <Filter>소스 파일\01. Sort_Algorithm\O%28n^2%29</Filter>
+      <Filter>소스 파일\01. Sort_Algorithm\01. O%28n^2%29</Filter>
     </ClCompile>
-    <ClCompile Include="2750.cpp">
+    <ClCompile Include="2751.cpp">
+      <Filter>소스 파일\02. Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="10989.cpp">
       <Filter>소스 파일\02. Baekjoon</Filter>
     </ClCompile>
   </ItemGroup>

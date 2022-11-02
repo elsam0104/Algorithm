@@ -14,18 +14,12 @@ int main()
 		for (j = i - 1; j >= 0; j--) {
 			if (tmp < a[j])
 				a[j + 1] = a[j];
-			else if (tmp == a[j])
-			{
-				a[j] = 0;
-			}
 			else break;
 		}
 		a[j + 1] = tmp;
 	}
 	for (i = 0; i < n; i++) {
-		if (a[i] == 0)
-			continue;
-		cout << a[i] << " ";
+		cout << a[i] << endl;
 	}
 
 	return 0;

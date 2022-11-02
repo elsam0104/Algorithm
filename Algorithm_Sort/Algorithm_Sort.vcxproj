@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10989.cpp" />
     <ClCompile Include="2750.cpp" />
+    <ClCompile Include="2751.cpp" />
     <ClCompile Include="pracice_quick.cpp" />
     <ClCompile Include="practice_buble.cpp" />
     <ClCompile Include="practice_count.cpp" />
