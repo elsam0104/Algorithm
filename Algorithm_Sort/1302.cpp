@@ -2,31 +2,26 @@
 #include<map>
 using namespace std;
 
-map<string, int> books;
-
 int main()
 {
-    int len, max = 0;;
-    string result;
-    cin >> len;
+	map<string, int> book;
+	int len, max = 0;;
+	string res,str;
+	cin >> len;
 
-    for (int i = 0; i < len; i++)
-    {
-        string str;
-        cin >> str;
+	for (int i = 0; i < len; i++)
+	{
+		cin >> str;
+		book[str]++; //책의 갯수 측정
+	}
 
-        books[str] += 1;
-    }
-
-    for (auto pair : books)
-    {
-        // 큰 거
-        if (pair.second >= max)
-        {
-            max = pair.second;
-            result = pair.first;
-        }
-    }
-
-    cout << result;
+	for (auto curBook : book)
+	{
+		if (curBook.second >= max) //가장 큰 책의 갯수를 찾음
+		{
+			max = curBook.second;
+			res = curBook.first;
+		}
+	}
+	cout << res;
 }
