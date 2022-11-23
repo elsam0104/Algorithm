@@ -1,13 +1,22 @@
-﻿  2750.cpp
+﻿  10989.cpp
+  1302.cpp
+  2750.cpp
+  2751.cpp
   pracice_quick.cpp
-  practice_buble.cpp
   practice_count.cpp
-  practice_insertion.cpp
   practice_merge.cpp
   practice_radix.cpp
-  practice_selection.cpp
   코드를 생성하고 있습니다...
-practice_buble.obj : error LNK2005: _main이(가) 2750.obj에 이미 정의되어 있습니다.
-practice_insertion.obj : error LNK2005: _main이(가) 2750.obj에 이미 정의되어 있습니다.
-practice_selection.obj : error LNK2005: _main이(가) 2750.obj에 이미 정의되어 있습니다.
+2750.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+2751.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+pracice_quick.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+pracice_quick.obj : error LNK2005: "int * a" (?a@@3PAHA)이(가) 2751.obj에 이미 정의되어 있습니다.
+practice_buble.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+practice_count.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+practice_insertion.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+practice_merge.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+practice_merge.obj : error LNK2005: "int * a" (?a@@3PAHA)이(가) 2751.obj에 이미 정의되어 있습니다.
+practice_merge.obj : error LNK2005: "int * sorted" (?sorted@@3PAHA)이(가) 2751.obj에 이미 정의되어 있습니다.
+practice_radix.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
+practice_selection.obj : error LNK2005: _main이(가) 1302.obj에 이미 정의되어 있습니다.
 C:\Users\USER\Documents\GitHub\Algorithm\Algorithm_Sort\Debug\Algorithm_Sort.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
