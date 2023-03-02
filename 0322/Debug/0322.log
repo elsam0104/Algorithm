@@ -1,0 +1,4 @@
+﻿  02.cpp
+C:\Users\USER\Desktop\2학년 1학기 방과후\0322\02.cpp(29,12): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\USER\Desktop\2학년 1학기 방과후\0322\02.cpp(34,11): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  0322.vcxproj -> C:\Users\USER\Desktop\2학년 1학기 방과후\0322\Debug\0322.exe
