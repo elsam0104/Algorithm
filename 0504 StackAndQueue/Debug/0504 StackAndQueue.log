@@ -1,0 +1,5 @@
+﻿  baekjoon1.cpp
+C:\Users\USER\Desktop\2학년 1학기 방과후\0504 StackAndQueue\baekjoon1.cpp(28,14): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\2학년 1학기 방과후\0504 StackAndQueue\baekjoon1.cpp(34,19): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\2학년 1학기 방과후\0504 StackAndQueue\baekjoon1.cpp(36,19): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0504 StackAndQueue.vcxproj -> C:\Users\USER\Desktop\2학년 1학기 방과후\0504 StackAndQueue\Debug\0503 StackAndQueue.exe
