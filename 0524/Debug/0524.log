@@ -1,0 +1,5 @@
+﻿  SearchSong.cpp
+C:\Users\USER\Desktop\2학년 1학기 방과후\0524\SearchSong.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\2학년 1학기 방과후\0524\SearchSong.cpp(28,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\2학년 1학기 방과후\0524\SearchSong.cpp(71,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0524.vcxproj -> C:\Users\USER\Desktop\2학년 1학기 방과후\0524\Debug\0524.exe
